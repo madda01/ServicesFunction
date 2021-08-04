@@ -24,7 +24,7 @@
 		echo "<script> alert('ERROR: Could not able to execute $sql. ')</script>" ;
 	}
 	 
-	// Close connection
+	// Close the connection
 	$con->close();
 
 ?>
